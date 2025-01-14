@@ -58,9 +58,11 @@ tunisian-book-fair/
 │
 ├── frontend/              # Frontend files
 │   ├── index.html         # Main HTML file
-│   ├── styles.css         # CSS styles
-│   ├── app.js             # JavaScript for dynamic functionality
-│
+│   ├── css/               # CSS styles
+│   ├── fonts/             # Website fonts
+│   ├── images/            # Images for visuals
+│   ├── js/                # Javascript for dynamics
+│   
 └── README.md              # Project documentation
 ```
 
